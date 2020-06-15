@@ -4,7 +4,9 @@ This is a work in progress.
 
 ## Lists of funders
 
-See [a list of funders in the Open Source Alliance for Open Scholarship Handbook](https://osaos.codeforscience.org/resource-list-funding/).
+* [list of funders in the Open Source Alliance for Open Scholarship Handbook](https://osaos.codeforscience.org/resource-list-funding/)
+* [Open Tech Fund's Alternative Sources of Support list](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
+* [NLNet's list of alternative funding sources](https://nlnet.nl/foundation/network.html)
 
 ## Chan Zuckerberg Initiative
 https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
@@ -138,3 +140,8 @@ Amount: combined cash & in-kind value of up to $15,000USD. “This grant include
 ## BSSw
 
 [The annual Better Scientific Software (BSSw) Fellowship Program will open for applications in mid-2020.](https://bssw.io/pages/bssw-fellowship-program)
+
+
+## Software Heritage
+
+[Software Heritage seeks experts in "diverse software development platform and version control systems that are used for publicly available source code"](https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/) and [asks for expressions of interest](https://framaforms.org/expression-of-interest-expanding-software-heritage-1589195728). [Stefano Zacchiroli writes: "We are looking for experts of specific #VCS, #package formats, and development #forges to fund in order to expand the coverage of the #SoftwareHeritage #archive."](https://mastodon.xyz/@zacchiro/104241156967574446) Some of the desired version control systems, code hosting platforms/forges, etc. are written in Python.
