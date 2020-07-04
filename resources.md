@@ -1,6 +1,6 @@
 # Resources
 
-As part of the [charter](https://wiki.python.org/psf/ProjectFundingWG) of the Project Funding Working Group, we offer the following resources for any organization or individual that wishes to secure funding to improve the Python ecosystem.
+Per the [charter](https://wiki.python.org/psf/ProjectFundingWG) of the Project Funding Working Group, we offer the following resources for any organization or individual that wishes to secure funding to improve the Python ecosystem.
 
 ## Budgeting
 Creating a budget is an essential requirement of most funding applications.
