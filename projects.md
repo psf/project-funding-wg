@@ -1,6 +1,6 @@
 # Projects
 
-The following list contains potentially fundable project areas within the Python ecosystem.
+The following list gathers potentially fundable project ideas within the Python ecosystem.
 
 - [CPython](https://github.com/python/steering-council/issues/26)
 - [Packaging](https://github.com/psf/fundable-packaging-improvements)
