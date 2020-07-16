@@ -150,6 +150,17 @@ Amount: combined cash & in-kind value of up to $15,000USD. “This grant include
 
 [The annual Better Scientific Software (BSSw) Fellowship Program will open for applications in mid-2020.](https://bssw.io/pages/bssw-fellowship-program)
 
+Amount: up to $25,000 USD.
+
+## UNICEF Innovation Fund
+
+https://unicefinnovationfund.org/
+
+"The Innovation Fund allows UNICEF to quickly assess, fund and grow open-source solutions that can improve children’s lives. Financial and technological support is available for companies that are using technology in innovative ways to improve the world."
+
+[Eligibility criteria include](https://unicefinnovationfund.org/#/submit):  You must be registered as a private company, and your company/institution must be registered in a UNICEF programme country.
+
+Amount: approximately up to US$90,000.
 
 ## Software Heritage
 
