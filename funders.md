@@ -111,6 +111,15 @@ Deadline: November
 
 Amount: 100000
 
+## Prototype Fund
+https://prototypefund.de/en/
+
+Deadline: "The new application phase starts August 2020."
+
+"The Prototype Fund supports ideas in  civic tech, data literacy, data security and software infrastructure. With a grant of up to €47.500, software developers, hackers, and creatives can code and develop innovative open source prototypes during a period of six months."
+
+"Self-employed developers and small teams who live in Germany can apply for funding."
+
 ## Unreal Engine Epic MegaGrants
 https://www.unrealengine.com/en-US/megagrants
 Deadline: “The deadline for submission is directly dependent on the funds remaining in the program. At this point, there is no deadline.”
