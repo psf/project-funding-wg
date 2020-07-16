@@ -44,11 +44,13 @@ a promising project for them.
 
 ## NLNet
 
-https://nlnet.nl/news/2019/20190601-call.html -- in particular looking 
-for "Reliability, confidentiality, integrity and security" proposals. Often seeks research-heavy projects that will advance the state of the art; proposals should emphasize innovative engineering instead of just leaning on how big an impact the project would have on a big userbase.
+https://nlnet.nl/news/2020/20200601-call.html
 
-Deadline: frequently rolling; next is Aug 1, 2019; notification within a 
-few months
+Eligibility: networking and internet technology, and/or especially privacy and trust enhancing technologies or search and discovery projects. "We put any money we can get our hands on where our mouth is: that is to increase the use of open technologies for society. What is important for us is that the technology you develop or help promote is usable for others and has the potential for real impact."
+
+Particularly interested in research-heavy projects that will advance the state of the art; proposals should emphasize innovative engineering instead of just leaning on how big an impact the project would have on a big userbase.
+
+Deadline: frequently rolling; next is Aug 1, 2020; notification within a few months
 
 Amount: up to 50,000 euros (about $57,000 USD)
 
