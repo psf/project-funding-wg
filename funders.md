@@ -7,6 +7,7 @@ This is a work in progress.
 * [list of funders in the Open Source Alliance for Open Scholarship Handbook](https://osaos.codeforscience.org/resource-list-funding/)
 * [Open Tech Fund's Alternative Sources of Support list](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
 * [NLNet's list of alternative funding sources](https://nlnet.nl/foundation/network.html)
+* [FOSS Jobs list of funding sources](https://github.com/fossjobs/fossjobs/wiki/resources)
 
 ## Chan Zuckerberg Initiative
 https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
@@ -29,6 +30,16 @@ Amount: "historically .... $5,000 and $150,000" but max $250,000
 Connection: Champions: Dan Callahan, Jannis Leidel, etc. and our liaisons from previous grants, and people we know in this list https://wiki.mozilla.org/MOSS/Foundational_Technology/Projects_We_Use
 
 Status: Through end of June 2020: finishing MOSS-funded project on pip work. Ok to submit multiple requests on different projects.
+
+## Linux Australia
+
+https://linux.org.au/grants-program-2020-now-open/
+
+"A total of $AUD 35,000 is available to fund open source and open hardware projects which will benefit our community."
+
+This year they'd especially like applications from projects that provide technological assistance to help people get through the pandemic.
+
+Deadline: "Applications will be accepted until 23:59 on 6 September 2020 anywhere on earth, with funding approvals finalised by the end of September."
 
 ## Comcast
 
