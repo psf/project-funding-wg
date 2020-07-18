@@ -12,6 +12,7 @@ Creating a budget is an essential requirement of most funding applications.
 Writing a grant proposal can be a daunting task for first-time writers. Here is some collected wisdom.
 - [Fundraising Remotely: Increasing your Chances of Success](https://sfconservancy.org/blog/2020/apr/02/remotefundraising/)
 - [Nonprofit Grant Writing: How to Secure Grants for Your Cause](https://grantsplus.com/nonprofit-grant-writing/)
+- [Developing a Logic Model or Theory of Change](https://meta.wikimedia.org/wiki/Learning_and_Evaluation/Logic_models#Steps_to_creating_a_logic_model)
 
 ## Co-ordination
 To co-ordinate with members of this WG at any stage in your search for funding, reach out to project-funding-wg@python.org.
