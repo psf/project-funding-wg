@@ -9,14 +9,28 @@ This is a work in progress.
 * [NLNet's list of alternative funding sources](https://nlnet.nl/foundation/network.html)
 * [FOSS Jobs list of funding sources](https://github.com/fossjobs/fossjobs/wiki/resources)
 
-## Chan Zuckerberg Initiative
-https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
 
-Deadline: August 4th 2020
 
-Amount: between $50k and $250k, 1 year
+## Linux Australia
 
-Status: we successfully applied to support the pip resolver in Cycle 1. Totally fine for PSF to submit another request in Cycle 3
+https://linux.org.au/grants-program-2020-now-open/
+
+"A total of $AUD 35,000 is available to fund open source and open hardware projects which will benefit our community."
+
+This year they'd especially like applications from projects that provide technological assistance to help people get through the pandemic.
+
+Deadline: "Applications will be accepted until 23:59 on 6 September 2020 anywhere on earth, with funding approvals finalised by the end of September."
+
+
+## Prototype Fund
+https://prototypefund.de/en/
+
+Deadline: "You can apply for our 9th round until the 30th of September 2020."
+
+"The Prototype Fund supports ideas in  civic tech, data literacy, data security and software infrastructure. With a grant of up to €47.500, software developers, hackers, and creatives can code and develop innovative open source prototypes during a period of six months."
+
+"Self-employed developers and small teams who live in Germany can apply for funding."
+
 
 ## Mozilla/MOSS Foundational Tech track.
 https://www.mozilla.org/en-US/moss/foundational-technology/
@@ -31,15 +45,6 @@ Connection: Champions: Dan Callahan, Jannis Leidel, etc. and our liaisons from p
 
 Status: Through end of June 2020: finishing MOSS-funded project on pip work. Ok to submit multiple requests on different projects.
 
-## Linux Australia
-
-https://linux.org.au/grants-program-2020-now-open/
-
-"A total of $AUD 35,000 is available to fund open source and open hardware projects which will benefit our community."
-
-This year they'd especially like applications from projects that provide technological assistance to help people get through the pandemic.
-
-Deadline: "Applications will be accepted until 23:59 on 6 September 2020 anywhere on earth, with funding approvals finalised by the end of September."
 
 ## Comcast
 
@@ -50,8 +55,29 @@ Deadline: rolling; not sure how long notification/payment takes
 
 Amount: $150,000, one-year
 
-Status: we haven't yet started applying. I think the GILectomy might be 
+Status: we haven't yet started applying. Sumana thinks the GILectomy might be
 a promising project for them.
+
+
+## Cisco
+
+https://research.cisco.com/research
+
+Eligibility: a wide range of open source software or research/development projects. For instance, see in section 3 where they are interested in "Predicting and mitigating security vulnerabilities in software components and systems" -- we could submit to the Integrity or to the general/catchall RfP.
+
+Budget: very open. Sumana emailed them to ask about budget range, and the response was:
+
+> We do not provide a budget range as budgets depend on the institution and geography, since costs vary. Research funds should cover costs associated with the following for one year of research funding:
+> * Graduate or post graduate students employment
+> * Limited release time (1-2 months) for PI
+> * Research support costs (e.g., equipment, laptops, incidental costs)
+> * Travel associated with research (e.g., conferences, standards)
+> * Overhead for research gifts is limited to 5%
+
+This implies that they are more focused on academia, but their webpage says "Open Source Projects, Industry Consortia, Standards Bodies, and Working Groups" are eligible, and Sumana didn't mention any academic institution in her email, so PSF is probably eligible.
+
+Deadline: possibly none?
+
 
 ## NLNet
 
@@ -67,26 +93,6 @@ Amount: up to 50,000 euros (about $57,000 USD)
 
 Status: PSF has been rejected in the past, is welcome to reapply
 
-## Open Technology Fund
-
-[Open Technology Fund](https://www.opentech.fund/). Several different funds , including the ["Core Infrastructure Fund"](https://www.opentech.fund/funds/core-infrastructure-fund/) which "supports the 'building block' technologies, infrastructures, and communities relied upon by digital security and circumvention tools strengthening Internet freedom, digital security, and the overall health of the Internet."
-
-Deadline: Varies. Initial submissions for the next round of CIF are due January 1, 2020.
-
-Amount: Varies. CIF goes from $5,000 to $300,000. The PSF [got $80,000 for PyPI improvements from OTF](https://www.opentech.fund/results/supported-projects/pypi-improvements/).
-
-Status: PSF successfully finished our past OTF work and we are welcome to reapply.
-
-### OTF Red Team
-
-https://www.opentech.fund/labs/red-team-lab/
-
-Deadline: rolling
-We're eligible to ask for a Red Team Audit as a security audit for any  of our projects.
-
-Connection: existing grantee
-
-Status: we haven't yet started applying and I think we should consider it.
 
 ## OpenHumans
 
@@ -98,6 +104,7 @@ Deadline: "No application deadline: This opportunity remains open while funds la
 
 Amount: Up to $5,000 USD.
 
+
 ## SBIR/STTR 
 
 https://seedfund.nsf.gov/
@@ -108,6 +115,7 @@ Deadline: Several different ones depending on the specific solicitation.
 
 Amount: Up to $1.5 million.
 
+
 ## Ruby Together
 [Ruby Together](https://rubytogether.org/projects)
 
@@ -117,21 +125,6 @@ Deadline: Rolling, reviewed every three months.
 
 Amount: Between $3,000 and $30,000.
 
-## Bill and Melinda Gates Foundation
-https://www.gatesfoundation.org/how-we-work/general-information/grant-opportunities
-
-Deadline: November 
-
-Amount: 100000
-
-## Prototype Fund
-https://prototypefund.de/en/
-
-Deadline: "The new application phase starts August 2020."
-
-"The Prototype Fund supports ideas in  civic tech, data literacy, data security and software infrastructure. With a grant of up to €47.500, software developers, hackers, and creatives can code and develop innovative open source prototypes during a period of six months."
-
-"Self-employed developers and small teams who live in Germany can apply for funding."
 
 ## Unreal Engine Epic MegaGrants
 https://www.unrealengine.com/en-US/megagrants
@@ -141,7 +134,7 @@ Amount: “Grants range from $5,000 to $500,000”
 
 “Epic Games has committed $100 million to support game developers, enterprise professionals, media and entertainment creators, students, educators, and tool developers doing amazing things with Unreal Engine or enhancing open-source capabilities for the 3D graphics community.”
 
-“Tool & Open-Source Developers
+Eligibility: “Tool & Open-Source Developers
 
 Developing a software tool that integrates with UE4? Creating open-source tools or enhancing the capabilities of open-source software to benefit the 3D graphics community? We love supporting open projects that solve tough problems or improve workflows.”
 
@@ -178,3 +171,43 @@ Amount: approximately up to US$90,000.
 ## Software Heritage
 
 [Software Heritage seeks experts in "diverse software development platform and version control systems that are used for publicly available source code"](https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/) and [asks for expressions of interest](https://framaforms.org/expression-of-interest-expanding-software-heritage-1589195728). [Stefano Zacchiroli writes: "We are looking for experts of specific #VCS, #package formats, and development #forges to fund in order to expand the coverage of the #SoftwareHeritage #archive."](https://mastodon.xyz/@zacchiro/104241156967574446) Some of the desired version control systems, code hosting platforms/forges, etc. are written in Python.
+
+
+## Open Technology Fund
+
+[Open Technology Fund](https://www.opentech.fund/). Several different funds , including the ["Core Infrastructure Fund"](https://www.opentech.fund/funds/core-infrastructure-fund/) which "supports the 'building block' technologies, infrastructures, and communities relied upon by digital security and circumvention tools strengthening Internet freedom, digital security, and the overall health of the Internet."
+
+Deadline: Varies. Initial submissions for the next round of CIF are due January 1, 2020.
+
+Amount: Varies. CIF goes from $5,000 to $300,000. The PSF [got $80,000 for PyPI improvements from OTF](https://www.opentech.fund/results/supported-projects/pypi-improvements/).
+
+Status: PSF successfully finished our past OTF work and we are welcome to reapply. However, [funding is currently paused because of uncertainty on OTF's side.](https://www.opentech.fund/news/pausing-september-1st-round/)
+
+### OTF Red Team
+
+https://www.opentech.fund/labs/red-team-lab/
+
+Deadline: rolling
+We're eligible to ask for a Red Team Audit as a security audit for any  of our projects.
+
+Connection: existing grantee
+
+Status: we haven't yet started applying and Sumana thinks we should consider it.
+
+
+## Bill and Melinda Gates Foundation
+https://www.gatesfoundation.org/how-we-work/general-information/grant-opportunities
+
+Deadline: was November 2019?
+
+Amount: 100000
+
+
+## Chan Zuckerberg Initiative
+https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
+
+Deadline: August 4th 2020 [past]
+
+Amount: between $50k and $250k, 1 year
+
+Status: we successfully applied to support the pip resolver in Cycle 1, and applied for Python dev support in Cycle 3
