@@ -81,13 +81,15 @@ Deadline: possibly none?
 
 ## NLNet
 
-https://nlnet.nl/news/2020/20200601-call.html
+https://nlnet.nl/foundation/can_do.html
 
 Eligibility: networking and internet technology, and/or especially privacy and trust enhancing technologies or search and discovery projects. "We put any money we can get our hands on where our mouth is: that is to increase the use of open technologies for society. What is important for us is that the technology you develop or help promote is usable for others and has the potential for real impact."
 
 Particularly interested in research-heavy projects that will advance the state of the art; proposals should emphasize innovative engineering instead of just leaning on how big an impact the project would have on a big userbase.
 
-Deadline: frequently rolling; next is Aug 1, 2020; notification within a few months
+https://nlnet.nl/propose/
+
+Deadline: frequently rolling; next is December 1 2020; notification within a few months
 
 Amount: up to 50,000 euros (about $57,000 USD)
 
@@ -146,9 +148,7 @@ Heard about this via https://godotengine.org/article/godot-engine-was-awarded-ep
 
 [The Open Source Center within the Digital Impact Alliance](http://www.osc.dial.community/grants.html) gives out grants. [They're interested in helping both projects that specifically target humanitarian/international development needs and upstream software that undergirds that kind of work](https://digitalimpactalliance.org/the-digital-impact-alliance-open-source-center-announces-strategic-grants-to-foster-ecosystem-change/), funding (in a past round) "Enterprise-Level Quality Improvements", "Multi-stakeholder Collaboration", "Platform Building and Generalization", "Product Consolidation", and "Managing Upstream Dependencies and Downstream Forks". "For as many as 5 grant awards, DIAL anticipates providing up to $900,000 USD total and up to 480 hours total of complementary in-kind technical assistance through participation in the Open Source Center program. This award is expected to span six months of project activity, with an option to extend." [They answered some questions in this OSC forum thread.](https://forum.osc.dial.community/t/strategic-grants-q-a-june-2018/335)
 
-Round 4 of their Catalytic Grants are now open https://www.osc.dial.community/catalytic-grant-round-4.html 
-
-[previous] Deadline: 23 February 2020: Deadline for applicants to submit proposals
+Deadline: CLOSED: Round 4 of their Catalytic Grants [have closed]( https://www.osc.dial.community/catalytic-grant-round-4.html).
 
 Amount: combined cash & in-kind value of up to $15,000USD. “This grant includes 50 hours of consulting time from OSC experts in preparation of the above items, and $2,5000 USD to compensate for your project’s participation in interviews and/or exercises. The total value of the grant is $15,000 USD.”
 
@@ -164,7 +164,7 @@ https://unicefinnovationfund.org/
 
 "The Innovation Fund allows UNICEF to quickly assess, fund and grow open-source solutions that can improve children’s lives. Financial and technological support is available for companies that are using technology in innovative ways to improve the world."
 
-[Eligibility criteria include](https://unicefinnovationfund.org/#/submit):  You must be registered as a private company, and your company/institution must be registered in a UNICEF programme country.
+[Eligibility criteria include](https://unicefinnovationfund.org/#/submit):  You must be registered as a private company, and your company/institution must be registered in a UNICEF programme country (note: the United States is not a UNICEF programme country).
 
 Amount: approximately up to US$90,000.
 
