@@ -35,7 +35,7 @@ Deadline: "You can apply for our 9th round until the 30th of September 2020."
 ## Mozilla/MOSS Foundational Tech track.
 https://www.mozilla.org/en-US/moss/foundational-technology/
 
-Deadline: monthly rolling 
+Deadline: monthly rolling -- **note**: [not open to new applications in 2020](https://www.mozilla.org/en-US/moss/), more info coming in 2021 about future award cycles.
 https://wiki.mozilla.org/MOSS#Application_Deadlines -- takes several 
 months to finalize & award, but you’ll generally get accepted or rejected within 6 weeks
 
