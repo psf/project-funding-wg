@@ -11,27 +11,6 @@ This is a work in progress.
 
 
 
-## Linux Australia
-
-https://linux.org.au/grants-program-2020-now-open/
-
-"A total of $AUD 35,000 is available to fund open source and open hardware projects which will benefit our community."
-
-This year they'd especially like applications from projects that provide technological assistance to help people get through the pandemic.
-
-Deadline: "Applications will be accepted until 23:59 on 6 September 2020 anywhere on earth, with funding approvals finalised by the end of September."
-
-
-## Prototype Fund
-https://prototypefund.de/en/
-
-Deadline: "You can apply for our 9th round until the 30th of September 2020."
-
-"The Prototype Fund supports ideas in  civic tech, data literacy, data security and software infrastructure. With a grant of up to €47.500, software developers, hackers, and creatives can code and develop innovative open source prototypes during a period of six months."
-
-"Self-employed developers and small teams who live in Germany can apply for funding."
-
-
 ## Mozilla/MOSS Foundational Tech track.
 https://www.mozilla.org/en-US/moss/foundational-technology/
 
@@ -44,19 +23,6 @@ Amount: "historically .... $5,000 and $150,000" but max $250,000
 Connection: Champions: Dan Callahan, Jannis Leidel, etc. and our liaisons from previous grants, and people we know in this list https://wiki.mozilla.org/MOSS/Foundational_Technology/Projects_We_Use
 
 Status: Through end of June 2020: finishing MOSS-funded project on pip work. Ok to submit multiple requests on different projects.
-
-
-## Comcast
-
-https://innovationfund.comcast.com/
-http://labs.comcast.com/comcast-innovation-fund-seeking-projects "Create or advance important open-source projects"
-
-Deadline: rolling; not sure how long notification/payment takes
-
-Amount: $150,000, one-year
-
-Status: we haven't yet started applying. Sumana thinks the GILectomy might be
-a promising project for them.
 
 
 ## Cisco
@@ -144,19 +110,9 @@ Developing a software tool that integrates with UE4? Creating open-source tools 
 
 Heard about this via https://godotengine.org/article/godot-engine-was-awarded-epic-megagrant -- looks like we don’t have to be directly connected to Unreal Engine to apply.
 
-## OSC/DIAL
+## Software Heritage
 
-[The Open Source Center within the Digital Impact Alliance](http://www.osc.dial.community/grants.html) gives out grants. [They're interested in helping both projects that specifically target humanitarian/international development needs and upstream software that undergirds that kind of work](https://digitalimpactalliance.org/the-digital-impact-alliance-open-source-center-announces-strategic-grants-to-foster-ecosystem-change/), funding (in a past round) "Enterprise-Level Quality Improvements", "Multi-stakeholder Collaboration", "Platform Building and Generalization", "Product Consolidation", and "Managing Upstream Dependencies and Downstream Forks". "For as many as 5 grant awards, DIAL anticipates providing up to $900,000 USD total and up to 480 hours total of complementary in-kind technical assistance through participation in the Open Source Center program. This award is expected to span six months of project activity, with an option to extend." [They answered some questions in this OSC forum thread.](https://forum.osc.dial.community/t/strategic-grants-q-a-june-2018/335)
-
-Deadline: CLOSED: Round 4 of their Catalytic Grants [have closed]( https://www.osc.dial.community/catalytic-grant-round-4.html).
-
-Amount: combined cash & in-kind value of up to $15,000USD. “This grant includes 50 hours of consulting time from OSC experts in preparation of the above items, and $2,5000 USD to compensate for your project’s participation in interviews and/or exercises. The total value of the grant is $15,000 USD.”
-
-## BSSw
-
-[The annual Better Scientific Software (BSSw) Fellowship Program will open for applications in mid-2020.](https://bssw.io/pages/bssw-fellowship-program)
-
-Amount: up to $25,000 USD.
+[Software Heritage seeks experts in "diverse software development platform and version control systems that are used for publicly available source code"](https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/) and [asks for expressions of interest](https://framaforms.org/expression-of-interest-expanding-software-heritage-1589195728). [Stefano Zacchiroli writes: "We are looking for experts of specific #VCS, #package formats, and development #forges to fund in order to expand the coverage of the #SoftwareHeritage #archive."](https://mastodon.xyz/@zacchiro/104241156967574446) Some of the desired version control systems, code hosting platforms/forges, etc. are written in Python.
 
 ## UNICEF Innovation Fund
 
@@ -168,9 +124,13 @@ https://unicefinnovationfund.org/
 
 Amount: approximately up to US$90,000.
 
-## Software Heritage
+## OSC/DIAL
 
-[Software Heritage seeks experts in "diverse software development platform and version control systems that are used for publicly available source code"](https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/) and [asks for expressions of interest](https://framaforms.org/expression-of-interest-expanding-software-heritage-1589195728). [Stefano Zacchiroli writes: "We are looking for experts of specific #VCS, #package formats, and development #forges to fund in order to expand the coverage of the #SoftwareHeritage #archive."](https://mastodon.xyz/@zacchiro/104241156967574446) Some of the desired version control systems, code hosting platforms/forges, etc. are written in Python.
+[The Open Source Center within the Digital Impact Alliance](http://www.osc.dial.community/grants.html) gives out grants. [They're interested in helping both projects that specifically target humanitarian/international development needs and upstream software that undergirds that kind of work](https://digitalimpactalliance.org/the-digital-impact-alliance-open-source-center-announces-strategic-grants-to-foster-ecosystem-change/), funding (in a past round) "Enterprise-Level Quality Improvements", "Multi-stakeholder Collaboration", "Platform Building and Generalization", "Product Consolidation", and "Managing Upstream Dependencies and Downstream Forks". "For as many as 5 grant awards, DIAL anticipates providing up to $900,000 USD total and up to 480 hours total of complementary in-kind technical assistance through participation in the Open Source Center program. This award is expected to span six months of project activity, with an option to extend." [They answered some questions in this OSC forum thread.](https://forum.osc.dial.community/t/strategic-grants-q-a-june-2018/335)
+
+Deadline: CLOSED: Round 4 of their Catalytic Grants [have closed]( https://www.osc.dial.community/catalytic-grant-round-4.html).
+
+Amount: combined cash & in-kind value of up to $15,000USD. “This grant includes 50 hours of consulting time from OSC experts in preparation of the above items, and $2,5000 USD to compensate for your project’s participation in interviews and/or exercises. The total value of the grant is $15,000 USD.”
 
 
 ## Open Technology Fund
@@ -194,6 +154,43 @@ Connection: existing grantee
 
 Status: we haven't yet started applying and Sumana thinks we should consider it.
 
+## BSSw
+
+[The annual Better Scientific Software (BSSw) Fellowship Program closed for applications late September 2020.](https://bssw.io/pages/bssw-fellowship-program)
+
+Amount: up to $25,000 USD.
+
+## Linux Australia
+
+https://linux.org.au/grants-program-2020-now-open/
+
+"A total of $AUD 35,000 is available to fund open source and open hardware projects which will benefit our community."
+
+This year they'd especially like applications from projects that provide technological assistance to help people get through the pandemic.
+
+Deadline: "Applications will be accepted until 23:59 on 6 September 2020 anywhere on earth, with funding approvals finalised by the end of September."
+
+## Comcast
+
+https://innovationfund.comcast.com/
+http://labs.comcast.com/comcast-innovation-fund-seeking-projects "Create or advance important open-source projects"
+
+Deadline: usually rolling; not sure how long notification/payment takes. Closed for 2020 Funding Year proposals and, near the start of 2021, will open for new proposals.
+
+Amount: $150,000, one-year
+
+Status: we haven't yet started applying. Sumana thinks the GILectomy might be
+a promising project for them.
+
+
+## Prototype Fund
+https://prototypefund.de/en/
+
+Deadline: "You can apply for our 9th round until the 30th of September 2020."
+
+"The Prototype Fund supports ideas in  civic tech, data literacy, data security and software infrastructure. With a grant of up to €47.500, software developers, hackers, and creatives can code and develop innovative open source prototypes during a period of six months."
+
+"Self-employed developers and small teams who live in Germany can apply for funding."
 
 ## Bill and Melinda Gates Foundation
 https://www.gatesfoundation.org/how-we-work/general-information/grant-opportunities
