@@ -122,7 +122,7 @@ https://unicefinnovationfund.org/
 
 [Eligibility criteria include](https://unicefinnovationfund.org/#/submit):  You must be registered as a private company, and your company/institution must be registered in a UNICEF programme country (note: the United States is not a UNICEF programme country).
 
-Amount: approximately up to US$90,000.
+Amount: [approximately up to US$100,000](https://www.unicefinnovationfund.org/funding-support).
 
 ## OSC/DIAL
 
