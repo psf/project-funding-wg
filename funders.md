@@ -25,6 +25,27 @@ Connection: Champions: Dan Callahan, Jannis Leidel, etc. and our liaisons from p
 Status: Through end of June 2020: finishing MOSS-funded project on pip work. Ok to submit multiple requests on different projects.
 
 
+## Tweag Open Source Fellowship
+
+https://boards.greenhouse.io/tweag/jobs/4638654002 -- also see blog posts https://www.tweag.io/blog/2020-02-14-os-fellowship/ and https://www.tweag.io/blog/2020-07-28-os-fellowship/
+
+Eligibility:
+
+> The Tweag Open Source Fellowship program invites you to contribute to the open-source community via a 12-week paid fellowship.
+
+> A typical outcome would be a mix of a coordinated open source contribution, a new tool or prototype, a scientific research paper, or a conference presentation. As long as the project benefits the open-source community, interpreted broadly, it is a suitable project for a Fellowship; research-oriented or risky Fellowships are explicitly permitted.
+
+> Fellows may contribute to any domain, provided we have the in-house expertise to suitably mentor the project.
+
+> Projects must be aligned with our mission to advance the open source software ecosystem in a sustainable way: We believe that a community of users and developers is essential for the long term development of software. We therefore favour **reproducible, shareable and composable contributions**, and we favour contributions that **align with community interests and integrate in larger software ecosystems**.
+
+Budget: "Fellows earn compensation according to the regionally adjusted scale posted by the [Google Summer of Code](https://developers.google.com/open-source/gsoc/help/student-stipends)." So the stipend would be between $1500 USD and $3300 USD for twelve weeks of work.
+
+Deadline: "Individual projects will be selected twice a year with deadlines on March 30 and September 30. Notifications will be within two weeks of these dates. The Fellowship itself must be started within 6 months of acceptance, at a time mutually agreeable to the applicant and the Tweag mentor." Currently open for applications to be reviewed in the next cycle (deadline March 30, 2021).
+
+Status: We're not aware of any individuals working in Python who have applied for a Tweag Fellowship. You could be the first!
+
+
 ## Cisco
 
 https://research.cisco.com/research
