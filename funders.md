@@ -46,26 +46,6 @@ Deadline: "Individual projects will be selected twice a year with deadlines on M
 Status: We're not aware of any individuals working in Python who have applied for a Tweag Fellowship. You could be the first!
 
 
-## Cisco
-
-https://research.cisco.com/research
-
-Eligibility: a wide range of open source software or research/development projects. For instance, see in section 3 where they are interested in "Predicting and mitigating security vulnerabilities in software components and systems" -- we could submit to the Integrity or to the general/catchall RfP.
-
-Budget: very open. Sumana emailed them to ask about budget range, and the response was:
-
-> We do not provide a budget range as budgets depend on the institution and geography, since costs vary. Research funds should cover costs associated with the following for one year of research funding:
-> * Graduate or post graduate students employment
-> * Limited release time (1-2 months) for PI
-> * Research support costs (e.g., equipment, laptops, incidental costs)
-> * Travel associated with research (e.g., conferences, standards)
-> * Overhead for research gifts is limited to 5%
-
-This implies that they are more focused on academia, but their webpage says "Open Source Projects, Industry Consortia, Standards Bodies, and Working Groups" are eligible, and Sumana didn't mention any academic institution in her email, so PSF is probably eligible.
-
-Deadline: possibly none?
-
-
 ## NLNet
 
 https://nlnet.nl/foundation/can_do.html
