@@ -151,7 +151,7 @@ https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
 
 Deadline: Varies
 
-Amount: between $50k and $250k, 1 year
+Amount: between $50k and $250k, 1-2 years
 
 Status: PSF successfully applied to support the pip resolver in Cycle 1, and unsuccessfully applied for Python dev support in Cycle 3. Cycle 4 is now open.
 
