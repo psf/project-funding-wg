@@ -14,5 +14,12 @@ Writing a grant proposal can be a daunting task for first-time writers. Here is 
 - [Nonprofit Grant Writing: How to Secure Grants for Your Cause](https://grantsplus.com/nonprofit-grant-writing/)
 - [Developing a Logic Model or Theory of Change](https://meta.wikimedia.org/wiki/Learning_and_Evaluation/Logic_models#Steps_to_creating_a_logic_model)
 
+## Example grants
+
+We are working to collect submitted grants from the community, so that you can get a better idea of what is required.
+This section will contain grant proposals for programs that we list in our [funders list](funders.md].
+
+* A JupyterHub grant for a Community management role, [along with commentary](https://twitter.com/choldgraf/status/1395454558357184512)
+
 ## Co-ordination
 To co-ordinate with members of this WG at any stage in your search for funding, reach out to project-funding-wg@python.org.
