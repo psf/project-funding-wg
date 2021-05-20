@@ -14,7 +14,7 @@ Writing a grant proposal can be a daunting task for first-time writers. Here is 
 - [Nonprofit Grant Writing: How to Secure Grants for Your Cause](https://grantsplus.com/nonprofit-grant-writing/)
 - [Developing a Logic Model or Theory of Change](https://meta.wikimedia.org/wiki/Learning_and_Evaluation/Logic_models#Steps_to_creating_a_logic_model)
 
-## Example grants
+## Example grant applications
 
 We are working to collect submitted grants from the community, so that you can get a better idea of what is required.
 This section will contain grant proposals for programs that we list in our [funders list](funders.md].
